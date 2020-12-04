@@ -41,6 +41,9 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
 ### Personal Projects
 * [krystara.io - Game resource for Gems of War](https://krystara.io/)
 * [GenshinMap - Interactive Community-driven Map for Genshin Impact](https://github.com/GenshinMap/genshinmap.github.io/)
+* [gow-troop-creator - Interactive web tool to render custom troop cards for Gems of War](https://github.com/MasterEric/gow-troop-creator)
+* [ChatBomb - Minecraft Mod (Forge and FabricMC)](https://github.com/MasterEric/ChatBomb)
+* [School Project - Rec Center Management Portal in React and JHipster](https://github.com/RecCenterManagement)
 * [School Project - Calculator App for Android](https://github.com/MasterEric/CSI2999-2018WIN-Calculator)
 * [School Project - Alarm Clock App for Android](https://github.com/MasterEric/CSI3370-2018WIN-AlarmClock)
 * [/r/StevenUniverse Moderator Bot - Performs Stylesheet backups, cycles the logo, counts user flairs, and builds Imgur albums from contest entries](https://github.com/MasterEric/su-moderator-bot)
@@ -60,6 +63,8 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
   * [roscomm - Created public get_topic_list() function](https://github.com/ros/ros_comm/pull/1154)
   * [rosbridge_suite - Added new parameters for topic and service security.](https://github.com/RobotWebTools/rosbridge_suite/pull/238)
   * [web_video_server - Fixed topic list to display all image topics, fixing Issue #18](https://github.com/RobotWebTools/web_video_server/pull/28)
+* [Garyatrics Discord Bot](https://garyatrics.com/)
+  * [Added Tower of Doom tracking functionality](https://github.com/maduck/GoWDiscordTeamBot/pull/18)
 * [Minecraft Forge](http://files.minecraftforge.net/)
   * [RenderLivingEvent now stores partialTick](https://github.com/MinecraftForge/MinecraftForge/pull/3822)
 * [FabricMC](https://fabricmc.net/)
@@ -67,3 +72,6 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
   * [primeTnt method, and UNSTABLE field.](https://github.com/FabricMC/yarn/pull/281)
 * [wttr.in](https://wttr.in/)
   * [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
+* serverless-plugin-additional-stacks
+  * [Add additional Capability when Transform is detected](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/28)
+  * [Allowed for use of array objects when describing additional stacks](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/26)
