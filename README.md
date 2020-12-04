@@ -1,16 +1,69 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MasterEric/MasterEric/main/overbuild_concept_art_500x.png" style="width: 100%">
 
-<!--
-**MasterEric/MasterEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Welcome to my profile!
+I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. I have a Bachelor's degree in Computer Science, and I am currently writing software at General Motors full-time. I have pull requests approved for several major open source projects, such as 
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/github/stars/MasterEric?style=social" />
+  &nbsp;
+  <a href="https://stackoverflow.com/users/5583560/elitemastereric"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5583560" alt="StackOverflow Rep"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MasterEric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterEric&hide=Shell,Racket,GLSL&langs_count=8" />
+</a>
+<a href="https://github.com/MasterEric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterEric&show_icons=true&line_height=27&count_private=true" alt="Julius's GitHub Stats" />
+</a>
+
+## Career
+
+I have been writing code for about 10 years now, and using computers for even longer. My first programming language was Java, where I basically just copied and pasted code I found in tutorials; once I actually took a class in Java and understood how objects and classes worked, and how variables and methods interacted, I was able to create more interesting stuff.
+
+For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Captain) for FIRST Robotics Competition Team 2137, [The Oxford RoboCats](http://team2137.com/). Working with the other members of the programming team, as well as other students specializing in electrical and mechanical enginerring and adult mentors, I helped develop code in LabVIEW which would operate a large robot in autonomous and teleoperated modes, including functionality such as state machines, precise movement through encoders and motor controllers, and computer vision to detect targets. Due in part to our team's effective and well-tuned autonomous programming, Team 2137 achieved numerous Engineering Inspiration and Chairmans Awards, as well as wins at the District and Regional levels. In [2015](https://www.thebluealliance.com/team/2137/2015), 2137 were the World Championship Subdivision Finalists, and in [2018](https://www.thebluealliance.com/team/2137/2018) they were World Championship Semifinalists.
+
+## Technologies and Tools
+
+![](https://img.shields.io/badge/-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
+![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&color=eb2d2f) 
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f2d53c)
+![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=000000)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=000000)
+
+## Major Contributions and Projects
+
+### Personal Projects
+* [krystara.io - Game resource for Gems of War](https://krystara.io/)
+* [GenshinMap - Interactive Community-driven Map for Genshin Impact](https://github.com/GenshinMap/genshinmap.github.io/)
+* [School Project - Calculator App for Android](https://github.com/MasterEric/CSI2999-2018WIN-Calculator)
+* [School Project - Alarm Clock App for Android](https://github.com/MasterEric/CSI3370-2018WIN-AlarmClock)
+* [/r/StevenUniverse Moderator Bot - Performs Stylesheet backups, cycles the logo, counts user flairs, and builds Imgur albums from contest entries](https://github.com/MasterEric/su-moderator-bot)
+* [Steven Universe Flair App - Sets flairs for /r/StevenUniverse](https://mastereric.github.io/su-flair-app/home)
+* [Warp Space - Animated Live Wallpaper for Android](https://github.com/MasterEric/WarpSpaceLiveWallpaper)
+
+### Professional Projects
+* [Dataspeed iPDS - Remotely control the Dataspeed Intelligent PDS remotely via Bluetooth](https://play.google.com/store/apps/details?id=com.dataspeed.bluetoothhmi&hl=en_US&gl=US)
+
+### Contributions to Open Source Software
+* [ROS](https://www.ros.org/)
+  * MAJOR: [rviz - Created a preferences dialog, with option to prompt save on exit](https://github.com/ros-visualization/rviz/pull/1216)
+  * MAJOR: [rqt_graph - Added nested namespaces, and more options to hide or group topics](https://github.com/ros-visualization/rqt_graph/pull/13)
+  * MAJOR: [rqt_graph - Added nested subgraph parsing required for nested namespaces, group nodes now render as a 3D box](https://github.com/ros-visualization/qt_gui_core/pull/87)
+  * [qt_gui_core - Backport recursive subgraph parsing for Indigo](https://github.com/ros-visualization/qt_gui_core/pull/117)
+  * [roscomm - Implemented rate-control-topic and rate-control-max-delay](https://github.com/ros/ros_comm/pull/947)
+  * [roscomm - Created public get_topic_list() function](https://github.com/ros/ros_comm/pull/1154)
+  * [rosbridge_suite - Added new parameters for topic and service security.](https://github.com/RobotWebTools/rosbridge_suite/pull/238)
+  * [web_video_server - Fixed topic list to display all image topics, fixing Issue #18](https://github.com/RobotWebTools/web_video_server/pull/28)
+* [Minecraft Forge](http://files.minecraftforge.net/)
+  * [RenderLivingEvent now stores partialTick](https://github.com/MinecraftForge/MinecraftForge/pull/3822)
+* [FabricMC](https://fabricmc.net/)
+  * [Added several strings related to chat networking, for 18w50a. ](https://github.com/FabricMC/yarn/pull/282)
+  * [primeTnt method, and UNSTABLE field.](https://github.com/FabricMC/yarn/pull/281)
+* [wttr.in](https://wttr.in/)
+  * [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
