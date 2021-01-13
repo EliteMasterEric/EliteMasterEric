@@ -50,6 +50,9 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
 * [Steven Universe Flair App - Sets flairs for /r/StevenUniverse](https://mastereric.github.io/su-flair-app/home)
 * [Warp Space - Animated Live Wallpaper for Android](https://github.com/MasterEric/WarpSpaceLiveWallpaper)
 
+### Published Libraries
+* [object_hash_rb](https://rubygems.org/gems/object_hash_rb) - Generate cryptographic hashes from objects and values in Ruby. Built for compatibility with [object-hash](https://github.com/puleos/object-hash) for JavaScript.
+
 ### Professional Projects
 * [Dataspeed iPDS - Remotely control the Dataspeed Intelligent PDS remotely via Bluetooth](https://play.google.com/store/apps/details?id=com.dataspeed.bluetoothhmi&hl=en_US&gl=US)
 
