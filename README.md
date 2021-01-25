@@ -26,9 +26,12 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
 
 ![](https://img.shields.io/badge/-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=00a8e8)
+
 ![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&color=eb2d2f) 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f2d53c)
+![](https://img.shields.io/badge/-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=000000)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -73,8 +76,13 @@ For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Capt
 * [FabricMC](https://fabricmc.net/)
   * [Added several strings related to chat networking, for 18w50a. ](https://github.com/FabricMC/yarn/pull/282)
   * [primeTnt method, and UNSTABLE field.](https://github.com/FabricMC/yarn/pull/281)
-* [wttr.in](https://wttr.in/)
-  * [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
+* [wttr.in](https://wttr.in/) - [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
 * serverless-plugin-additional-stacks
   * [Add additional Capability when Transform is detected](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/28)
   * [Allowed for use of array objects when describing additional stacks](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/26)
+* react-leaflet-textpath
+  * MAJOR: [Migrate to react-leaflet v3](https://github.com/clementallen/react-leaflet-textpath).
+* spherical_mercator
+  * [Add option to disable rounding on integer zoom levels.](https://github.com/nbulaj/spherical_mercator/pull/2)
+* object-hash
+  * [Update readme to detail passthrough mode.](https://github.com/puleos/object-hash/pull/107)
