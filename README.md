@@ -20,8 +20,6 @@ I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. 
 
 I have been writing code for about 10 years now, and using computers for even longer. My first programming language was Java, where I basically just copied and pasted code I found in tutorials; once I actually took a class in Java and understood how objects and classes worked, and how variables and methods interacted, I was able to create more interesting stuff.
 
-For 5 years (2014-2018 seasons), I was a Programmer (later Programming Team Captain) for FIRST Robotics Competition Team 2137, [The Oxford RoboCats](http://team2137.com/). Working with the other members of the programming team, as well as other students specializing in electrical and mechanical enginerring and adult mentors, I helped develop code in LabVIEW which would operate a large robot in autonomous and teleoperated modes, including functionality such as state machines, precise movement through encoders and motor controllers, and computer vision to detect targets. Due in part to our team's effective and well-tuned autonomous programming, Team 2137 achieved numerous Engineering Inspiration and Chairmans Awards, as well as wins at the District and Regional levels. In [2015](https://www.thebluealliance.com/team/2137/2015), 2137 were the World Championship Subdivision Finalists, and in [2018](https://www.thebluealliance.com/team/2137/2018) they were World Championship Semifinalists.
-
 ## Technologies and Tools
 
 ![](https://img.shields.io/badge/-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=000000)
