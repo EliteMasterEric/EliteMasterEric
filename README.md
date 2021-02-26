@@ -74,7 +74,8 @@ I have been writing code for about 10 years now, and using computers for even lo
 * [FabricMC](https://fabricmc.net/)
   * [Added several strings related to chat networking, for 18w50a. ](https://github.com/FabricMC/yarn/pull/282)
   * [primeTnt method, and UNSTABLE field.](https://github.com/FabricMC/yarn/pull/281)
-* [wttr.in](https://wttr.in/) - [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
+* [wttr.in](https://wttr.in/)
+  * [Added documentation on the use of JSON formatting options](https://github.com/ros-visualization/rqt_graph/pull/13)
 * serverless-plugin-additional-stacks
   * [Add additional Capability when Transform is detected](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/28)
   * [Allowed for use of array objects when describing additional stacks](https://github.com/nordcloud/serverless-plugin-additional-stacks/pull/26)
@@ -84,3 +85,6 @@ I have been writing code for about 10 years now, and using computers for even lo
   * [Add option to disable rounding on integer zoom levels.](https://github.com/nbulaj/spherical_mercator/pull/2)
 * object-hash
   * [Update readme to detail passthrough mode.](https://github.com/puleos/object-hash/pull/107)
+* react-localization
+  * [Updated TypeScript definitions.](https://github.com/stefalda/react-localization/pull/114)
+
