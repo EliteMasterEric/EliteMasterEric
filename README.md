@@ -68,7 +68,7 @@ I have been writing code for about 10 years now, and using computers for even lo
   * [rosbridge_suite - Added new parameters for topic and service security.](https://github.com/RobotWebTools/rosbridge_suite/pull/238)
   * [web_video_server - Fixed topic list to display all image topics, fixing Issue #18](https://github.com/RobotWebTools/web_video_server/pull/28)
 * [Garyatrics Discord Bot](https://garyatrics.com/)
-  * [Added Tower of Doom tracking functionality](https://github.com/maduck/GoWDiscordTeamBot/pull/18)
+  * MAJOR: [Added Tower of Doom tracking functionality](https://github.com/maduck/GoWDiscordTeamBot/pull/18)
 * [Minecraft Forge](http://files.minecraftforge.net/)
   * [RenderLivingEvent now stores partialTick](https://github.com/MinecraftForge/MinecraftForge/pull/3822)
 * [FabricMC](https://fabricmc.net/)
