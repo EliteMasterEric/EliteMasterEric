@@ -27,8 +27,9 @@ I have been writing code for about 10 years now, and using computers for even lo
 
 ![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=java&logoColor=white&color=eb2d2f) 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=f2d53c)
+![](https://img.shields.io/badge/-Typescript-informational?style=flat-square&logo=typescript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=red)
-![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=ffd43b&color=306998)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -68,6 +69,8 @@ I have been writing code for about 10 years now, and using computers for even lo
   * [rosbridge_suite - Added new parameters for topic and service security.](https://github.com/RobotWebTools/rosbridge_suite/pull/238)
   * [web_video_server - Fixed topic list to display all image topics, fixing Issue #18](https://github.com/RobotWebTools/web_video_server/pull/28)
 * [DefinitelyTyped](https://definitelytyped.org/)
+  * [[leaflet-geosearch] Remove package and add to notNeededPackages.json](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51551)
+  * [[leaflet-textpath] **DEFINITION OWNER** Add new package.](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51552)
   * [[prettier] Add tests for plugin options, convert oppositeDescription to string](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51316)
   * [[react-leaflet] Update types for v2.8.0.](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51487)
 * [Garyatrics Discord Bot](https://garyatrics.com/)
