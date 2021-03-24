@@ -74,6 +74,7 @@ I have been writing code for about 10 years now, and using computers for even lo
   * [[prettier] Add tests for plugin options, convert oppositeDescription to string](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51316)
   * [[react-leaflet] **DEFINITION OWNER** Update types for v2.8.0.](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51487)
   * [[react-leaflet] **DEFINITION OWNER** Add missing onZoom event](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51553)
+  * [[leaflet-editable] **DEFINITION OWNER** Update to version 1.2.](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51516)
 * [Garyatrics Discord Bot](https://garyatrics.com/)
   * MAJOR: [Added Tower of Doom tracking functionality](https://github.com/maduck/GoWDiscordTeamBot/pull/18)
 * [Minecraft Forge](http://files.minecraftforge.net/)
