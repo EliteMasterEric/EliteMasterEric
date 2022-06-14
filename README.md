@@ -40,6 +40,10 @@ I have been writing code for about 10 years now, and using computers for even lo
 
 ## Major Contributions and Projects
 
+### Professional Projects
+* [Dataspeed iPDS - Remotely control the Dataspeed Intelligent PDS remotely via Bluetooth](https://play.google.com/store/apps/details?id=com.dataspeed.bluetoothhmi&hl=en_US&gl=US)
+* [Friday Night Funkin' - Modding System and Additional Scripting Support](https://github.com/ninjamuffin99/Funkin)
+
 ### Personal Projects
 * [krystara.io - Game resource for Gems of War](https://krystara.io/)
 * [GenshinMap - Interactive Community-driven Map for Genshin Impact](https://github.com/GenshinMap/genshinmap.github.io/)
@@ -53,10 +57,8 @@ I have been writing code for about 10 years now, and using computers for even lo
 * [Warp Space - Animated Live Wallpaper for Android](https://github.com/MasterEric/WarpSpaceLiveWallpaper)
 
 ### Published Libraries
+* [Polymod](https://github.com/larsiusprime/polymod/) (Active Maintainer) - Atomic modding framework for Haxe, to allow applications to support user-generated content.
 * [object_hash_rb](https://rubygems.org/gems/object_hash_rb) - Generate cryptographic hashes from objects and values in Ruby. Built for compatibility with [object-hash](https://github.com/puleos/object-hash) for JavaScript.
-
-### Professional Projects
-* [Dataspeed iPDS - Remotely control the Dataspeed Intelligent PDS remotely via Bluetooth](https://play.google.com/store/apps/details?id=com.dataspeed.bluetoothhmi&hl=en_US&gl=US)
 
 ### Contributions to Open Source Software
 * [ROS](https://www.ros.org/)
