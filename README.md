@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MasterEric/MasterEric/main/overbuild_concept_art_500x.png" style="width: 100%">
+<img src="https://raw.githubusercontent.com/MasterEric/MasterEric/main/overbuild_concept_art_500x.png" style="width: 33%">
 
 #  Welcome to my profile!
-I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. I have a Bachelor's degree in Computer Science, and I am currently writing software at General Motors full-time. I have pull requests approved for several major open source projects, such as 
+I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. I have a Bachelor's degree in Computer Science, and I am currently writing software full-time.
 
 <p>
   <img src="https://img.shields.io/github/stars/MasterEric?style=social" />
@@ -16,9 +16,11 @@ I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterEric&show_icons=true&line_height=27&count_private=true" alt="Julius's GitHub Stats" />
 </a>
 
+
 ## Career
 
 I have been writing code for about 10 years now, and using computers for even longer. My first programming language was Java, where I basically just copied and pasted code I found in tutorials; once I actually took a class in Java and understood how objects and classes worked, and how variables and methods interacted, I was able to create more interesting stuff.
+
 
 ## Technologies and Tools
 
@@ -30,13 +32,21 @@ I have been writing code for about 10 years now, and using computers for even lo
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat-square&logo=typescript&logoColor=white&color=007acc)
 ![](https://img.shields.io/badge/-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=red)
 ![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=ffd43b&color=306998)
+![](https://img.shields.io/badge/-Haxe-informational?style=flat-square&logo=haxe&logoColor=orange&color=black)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![](https://img.shields.io/badge/-ROS-informational?style=flat-square&logo=ros&logoColor=white&color=22314E)
+![](https://img.shields.io/badge/-Spring-informational?style=flat-square&logo=spring&logoColor=white&color=6DB33F)
+![](https://img.shields.io/badge/-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=black)
+![](https://img.shields.io/badge/-Unreal%20Engine-informational?style=flat-square&logo=unreal-engine&logoColor=white&color=0E1128)
+
+![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams)
+![](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=000000)
+
 
 ## Major Contributions and Projects
 
@@ -49,11 +59,11 @@ I have been writing code for about 10 years now, and using computers for even lo
 * [GenshinMap - Interactive Community-driven Map for Genshin Impact](https://github.com/GenshinMap/genshinmap.github.io/)
 * [gow-troop-creator - Interactive web tool to render custom troop cards for Gems of War](https://github.com/MasterEric/gow-troop-creator)
 * [ChatBomb - Minecraft Mod (Forge and FabricMC)](https://github.com/MasterEric/ChatBomb)
-* [School Project - Rec Center Management Portal in React and JHipster](https://github.com/RecCenterManagement)
-* [School Project - Calculator App for Android](https://github.com/MasterEric/CSI2999-2018WIN-Calculator)
-* [School Project - Alarm Clock App for Android](https://github.com/MasterEric/CSI3370-2018WIN-AlarmClock)
-* [/r/StevenUniverse Moderator Bot - Performs Stylesheet backups, cycles the logo, counts user flairs, and builds Imgur albums from contest entries](https://github.com/MasterEric/su-moderator-bot)
-* [Steven Universe Flair App - Sets flairs for /r/StevenUniverse](https://mastereric.github.io/su-flair-app/home)
+* [University Project - Rec Center Management Portal in React and JHipster](https://github.com/RecCenterManagement)
+* [University Project - Calculator App for Android](https://github.com/MasterEric/CSI2999-2018WIN-Calculator)
+* [University Project - Alarm Clock App for Android](https://github.com/MasterEric/CSI3370-2018WIN-AlarmClock)
+* [/r/StevenUniverse Moderator Bot - Performs various automatic functions for the Steven Universe page on Reddit](https://github.com/MasterEric/su-moderator-bot)
+* [Steven Universe Flair App - Sets user flairs for the Steven Universe page on Reddit](https://mastereric.github.io/su-flair-app/home)
 * [Warp Space - Animated Live Wallpaper for Android](https://github.com/MasterEric/WarpSpaceLiveWallpaper)
 
 ### Published Libraries
