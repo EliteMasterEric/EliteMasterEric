@@ -4,7 +4,7 @@
 I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. I have a Bachelor's degree in Computer Science, and I am currently writing software full-time.
 
 <p>
-  <img src="https://img.shields.io/github/stars/MasterEric?style=social" />
+  <img src="https://img.shields.io/github/stars/EliteMasterEric?style=social" />
   &nbsp;
   <a href="https://stackoverflow.com/users/5583560/elitemastereric"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5583560" alt="StackOverflow Rep"/></a>
 </p>
