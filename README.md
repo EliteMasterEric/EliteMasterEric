@@ -9,11 +9,11 @@ I am a Software Engineer who enjoys cooking, video games, cartoons, and coding. 
   <a href="https://stackoverflow.com/users/5583560/elitemastereric"><img src="https://img.shields.io/stackexchange/stackoverflow/r/5583560" alt="StackOverflow Rep"/></a>
 </p>
 
-<a href="https://github.com/MasterEric">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterEric&hide=Shell,Racket,GLSL&langs_count=8" />
+<a href="https://github.com/EliteMasterEric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliteMasterEric&hide=Shell,Racket,GLSL&langs_count=8" />
 </a>
-<a href="https://github.com/MasterEric">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterEric&show_icons=true&line_height=27&count_private=true" alt="Julius's GitHub Stats" />
+<a href="https://github.com/EliteMasterEric">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliteMasterEric&show_icons=true&line_height=27&count_private=true" alt="Julius's GitHub Stats" />
 </a>
 
 
